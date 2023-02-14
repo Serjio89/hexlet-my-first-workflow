@@ -1,4 +1,4 @@
-name: GitHub_Actions_Test
+name: Build%20and%20Test
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on: [push]
 jobs:
